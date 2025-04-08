@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Light theme colors -->
+    <color name="colorPrimary">#4285F4</color>
+    <color name="colorPrimaryDark">#3367D6</color>
+    <color name="colorAccent">#00C2D1</color>
+    
+    <!-- Background colors -->
+    <color name="background_color">#F8F9FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="surface_color">#FFFFFF</color>
+    
+    <!-- Text colors -->
+    <color name="primary_text">#202124</color>
+    <color name="secondary_text">#5F6368</color>
+    <color name="tertiary_text">#80868B</color>
+
+    <!-- Status colors -->
+    <color name="status_active">#34A853</color>
+    <color name="status_delayed">#FBBC05</color>
+    <color name="status_canceled">#EA4335</color>
+    <color name="status_unknown">#80868B</color>
+
+    <!-- UI element colors -->
+    <color name="divider_color">#E0E0E0</color>
+    <color name="ripple_color">#1A000000</color>
+    <color name="button_text">#FFFFFF</color>
+</resources>

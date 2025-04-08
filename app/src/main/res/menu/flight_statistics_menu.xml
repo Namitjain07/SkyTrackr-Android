@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_refresh_now"
+        android:title="@string/refresh_now"
+        android:icon="@drawable/ic_refresh"
+        app:showAsAction="ifRoom" />
+        
+    <item
+        android:id="@+id/action_update_frequency"
+        android:title="@string/update_frequency"
+        android:icon="@drawable/ic_update_frequency"
+        app:showAsAction="ifRoom" />
+</menu>

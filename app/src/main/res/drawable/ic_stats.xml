@@ -1,0 +1,51 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Left bar (from x=3 to 7, y=8 to 20) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M4,8
+            H6
+            a1,1 0 0 1 1,1
+            V19
+            a1,1 0 0 1 -1,1
+            H4
+            a1,1 0 0 1 -1,-1
+            V9
+            a1,1 0 0 1 1,-1
+            Z" />
+
+    <!-- Middle bar (from x=10 to 14, y=4 to 20) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M11,4
+            H13
+            a1,1 0 0 1 1,1
+            V19
+            a1,1 0 0 1 -1,1
+            H11
+            a1,1 0 0 1 -1,-1
+            V5
+            a1,1 0 0 1 1,-1
+            Z" />
+
+    <!-- Right bar (from x=17 to 21, y=6 to 20) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M18,6
+            H20
+            a1,1 0 0 1 1,1
+            V19
+            a1,1 0 0 1 -1,1
+            H18
+            a1,1 0 0 1 -1,-1
+            V7
+            a1,1 0 0 1 1,-1
+            Z" />
+</vector>

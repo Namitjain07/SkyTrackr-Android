@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme colors -->
+    <color name="colorPrimary">#8AB4F8</color>
+    <color name="colorPrimaryDark">#669DF6</color>
+    <color name="colorAccent">#4ECDE6</color>
+    
+    <!-- Background colors -->
+    <color name="background_color">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="surface_color">#1E1E1E</color>
+    
+    <!-- Text colors -->
+    <color name="primary_text">#E8EAED</color>
+    <color name="secondary_text">#9AA0A6</color>
+    <color name="tertiary_text">#80868B</color>
+
+    <!-- Status colors - slightly muted for dark mode -->
+    <color name="status_active">#5BB974</color>
+    <color name="status_delayed">#FCC934</color>
+    <color name="status_canceled">#F28B82</color>
+    <color name="status_unknown">#9AA0A6</color>
+
+    <!-- UI element colors -->
+    <color name="divider_color">#3C4043</color>
+    <color name="ripple_color">#33FFFFFF</color>
+    <color name="button_text">#202124</color>
+</resources>
