@@ -215,7 +215,7 @@ app/
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/namit22315/Flight-Tracker.git
    ```
 
 2. Open the project in Android Studio  
@@ -228,13 +228,10 @@ The app uses flight tracking APIs which may require API keys. Configure your API
 - `AirportFlightApiService.kt`  
 - `FlightApiService.kt`  
 
-## License
-
-[Your license information]
 
 ## Acknowledgements
 
-- Flight data provided by [API provider]  
+- Flight data provided by https://aviationstack.com/
 - Icons from Material Design
 
 ---
