@@ -49,19 +49,19 @@ A comprehensive Android application for tracking flights, monitoring flight dela
 ## Screenshots
 
 ### Main flight tracking screen  
-![Main screen](screenshots/main_screen.png)
+![Main screen](screenshots/main_screen.jpg)
 
 ### Flight route search results  
-![Search results](screenshots/search_results.png)
+![Search results](screenshots/search_results.jpg)
 
 ### Flight statistics dashboard  
-![Stats dashboard](screenshots/stats_dashboard.png)
+![Stats dashboard](screenshots/stats_dashboard.jpg)
 
 ### Background service settings  
-![Background service](screenshots/background_service.png)
+![Background service](screenshots/background_service.jpg)
 
 ### Theme toggle demonstration (light/dark)  
-![Theme toggle](screenshots/theme_toggle.png)
+![Theme toggle](screenshots/theme_toggle.jpg)
 
 ## Architecture
 
