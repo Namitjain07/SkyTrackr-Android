@@ -48,12 +48,20 @@ A comprehensive Android application for tracking flights, monitoring flight dela
 
 ## Screenshots
 
-*Place screenshots here - Include images of the following screens:*
-- Main flight tracking screen  
-- Flight route search results  
-- Flight statistics dashboard  
-- Background service settings  
-- Theme toggle demonstration (light/dark)
+### Main flight tracking screen  
+![Main screen](screenshots/main_screen.png)
+
+### Flight route search results  
+![Search results](screenshots/search_results.png)
+
+### Flight statistics dashboard  
+![Stats dashboard](screenshots/stats_dashboard.png)
+
+### Background service settings  
+![Background service](screenshots/background_service.png)
+
+### Theme toggle demonstration (light/dark)  
+![Theme toggle](screenshots/theme_toggle.png)
 
 ## Architecture
 
