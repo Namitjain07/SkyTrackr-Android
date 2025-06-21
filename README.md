@@ -1,7 +1,4 @@
-
----
-
-# Flight Tracker
+# SkyTrackr-Android
 
 A comprehensive Android application for tracking flights, monitoring flight delays, and analyzing flight statistics in real-time.
 
